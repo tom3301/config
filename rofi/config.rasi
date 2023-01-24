@@ -1,0 +1,8 @@
+configuration {
+ modi: "window,run,drun,ssh,filebrowser";
+ kb-cancel: "Escape,Alt+F1";
+ show-icons: true;
+ terminal: "alactritty";
+ font: "Open Sans 16";
+ }
+ @theme "Arc-Dark"
